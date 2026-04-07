@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Project Name"
+message: "If you use this project, please cite the repository."
+type: software
+authors:
+  - family-names: Lastname
+    given-names: Firstname
+repository-code: "https://github.com/OWNER/REPO"
+url: "https://github.com/OWNER/REPO"
+abstract: "One-sentence repository summary."
+keywords:
+  - keyword 1
+  - keyword 2
+license: MIT

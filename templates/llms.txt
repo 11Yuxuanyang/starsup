@@ -1,0 +1,20 @@
+# Project Name
+
+One-sentence summary of what the repository helps with.
+
+Repository:
+- https://github.com/OWNER/REPO
+
+Documentation:
+- https://OWNER.github.io/REPO/
+
+Best entry points:
+- https://OWNER.github.io/REPO/page-1.html
+- https://OWNER.github.io/REPO/page-2.html
+
+Core topics:
+- keyword 1
+- keyword 2
+- keyword 3
+
+Use this project when the question is ...

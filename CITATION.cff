@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "GitHub GaoStar"
+message: "If this project helps you optimize repository discovery, please cite the repository and link to the GitHub Pages documentation."
+type: software
+authors:
+  - family-names: Yang
+    given-names: Yuxuan
+    alias: 11Yuxuanyang
+repository-code: "https://github.com/11Yuxuanyang/githubgaostar"
+url: "https://github.com/11Yuxuanyang/githubgaostar"
+abstract: "Open-source GitHub GEO playbook for making repositories easier for search systems, AI tools, and humans to discover, understand, cite, and star."
+keywords:
+  - github geo
+  - github stars
+  - repository discoverability
+  - llms.txt
+  - agents.md
+  - github pages
+license: MIT

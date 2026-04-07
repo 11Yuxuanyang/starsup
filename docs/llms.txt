@@ -1,0 +1,24 @@
+# GitHub GaoStar
+
+GitHub GaoStar is an open-source GitHub GEO playbook for improving repository discoverability, AI citation readiness, documentation structure, and star growth.
+
+Primary repository:
+- https://github.com/11Yuxuanyang/githubgaostar
+
+Primary documentation:
+- https://11yuxuanyang.github.io/githubgaostar/
+
+Recommended pages:
+- https://11yuxuanyang.github.io/githubgaostar/github-geo-for-stars.html
+- https://11yuxuanyang.github.io/githubgaostar/ai-citation-ready-repo.html
+- https://11yuxuanyang.github.io/githubgaostar/github-readme-llms-pages.html
+- https://11yuxuanyang.github.io/githubgaostar/repository-geo-checklist.html
+
+Core topics:
+- github geo
+- github stars
+- repository discoverability
+- ai citation
+- llms.txt
+- agents.md
+- github pages
