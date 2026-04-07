@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-title: "GitHub GaoStar"
+title: "GitHub GEO Playbook"
 message: "If this project helps you optimize repository discovery, please cite the repository and link to the GitHub Pages documentation."
 type: software
 authors:
   - family-names: Yang
     given-names: Yuxuan
     alias: 11Yuxuanyang
-repository-code: "https://github.com/11Yuxuanyang/githubgaostar"
-url: "https://github.com/11Yuxuanyang/githubgaostar"
+repository-code: "https://github.com/11Yuxuanyang/repo-geo-playbook"
+url: "https://github.com/11Yuxuanyang/repo-geo-playbook"
 abstract: "Open-source GitHub GEO playbook for making repositories easier for search systems, AI tools, and humans to discover, understand, cite, and star."
 keywords:
   - github geo

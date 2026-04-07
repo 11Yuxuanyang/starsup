@@ -2,7 +2,7 @@
 
 ## Project
 
-GitHub GaoStar is an open-source GitHub GEO project. It helps builders make repositories easier for AI systems, search systems, and humans to discover, understand, cite, and star.
+GitHub GEO Playbook is an open-source GitHub GEO project. It helps builders make repositories easier for AI systems, search systems, and humans to discover, understand, cite, and star.
 
 ## Best Entry Points
 
