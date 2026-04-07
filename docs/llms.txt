@@ -1,18 +1,18 @@
-# GitHub GEO Playbook
+# Starsup
 
-GitHub GEO Playbook is an open-source GitHub GEO playbook for improving repository discoverability, AI citation readiness, documentation structure, and star growth.
+Starsup is an open-source playbook for improving repository discoverability, AI citation readiness, documentation structure, and star growth.
 
 Primary repository:
-- https://github.com/11Yuxuanyang/repo-geo-playbook
+- https://github.com/11Yuxuanyang/starsup
 
 Primary documentation:
-- https://11yuxuanyang.github.io/repo-geo-playbook/
+- https://11yuxuanyang.github.io/starsup/
 
 Recommended pages:
-- https://11yuxuanyang.github.io/repo-geo-playbook/github-geo-for-stars.html
-- https://11yuxuanyang.github.io/repo-geo-playbook/ai-citation-ready-repo.html
-- https://11yuxuanyang.github.io/repo-geo-playbook/github-readme-llms-pages.html
-- https://11yuxuanyang.github.io/repo-geo-playbook/repository-geo-checklist.html
+- https://11yuxuanyang.github.io/starsup/github-geo-for-stars.html
+- https://11yuxuanyang.github.io/starsup/ai-citation-ready-repo.html
+- https://11yuxuanyang.github.io/starsup/github-readme-llms-pages.html
+- https://11yuxuanyang.github.io/starsup/repository-geo-checklist.html
 
 Core topics:
 - github geo

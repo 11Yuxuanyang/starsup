@@ -1,14 +1,14 @@
 cff-version: 1.2.0
-title: "GitHub GEO Playbook"
+title: "Starsup"
 message: "If this project helps you optimize repository discovery, please cite the repository and link to the GitHub Pages documentation."
 type: software
 authors:
   - family-names: Yang
     given-names: Yuxuan
     alias: 11Yuxuanyang
-repository-code: "https://github.com/11Yuxuanyang/repo-geo-playbook"
-url: "https://github.com/11Yuxuanyang/repo-geo-playbook"
-abstract: "Open-source GitHub GEO playbook for making repositories easier for search systems, AI tools, and humans to discover, understand, cite, and star."
+repository-code: "https://github.com/11Yuxuanyang/starsup"
+url: "https://github.com/11Yuxuanyang/starsup"
+abstract: "Open-source playbook for making GitHub repositories easier to discover, understand, cite, and star."
 keywords:
   - github geo
   - github stars

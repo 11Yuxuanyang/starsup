@@ -1,10 +1,10 @@
-# GitHub GEO Playbook
+# Starsup
 
-GitHub GEO for builders who want traffic, citations, and stars.
+The GitHub playbook for builders who want traffic, citations, and stars.
 
 把一个 GitHub 仓库做成搜索和 AI 都更容易理解、引用、推荐的答案页。
 
-`GitHub GEO Playbook` is an open-source playbook for turning a repository into a discoverable product surface. It packages the stack that actually moves the needle on GitHub GEO:
+`Starsup` is an open-source playbook for turning a repository into a discoverable product surface. It packages the stack that drives star growth through repository discovery:
 
 - positioning the README around real questions
 - adding `llms.txt`, `AGENTS.md`, and citation metadata
@@ -16,11 +16,10 @@ GitHub GEO for builders who want traffic, citations, and stars.
 
 Documentation site:
 
-- https://11yuxuanyang.github.io/repo-geo-playbook/
+- https://11yuxuanyang.github.io/starsup/
 
-## What GitHub GEO Means
-
-GitHub GEO is the craft of making a repository discoverable through problem keywords instead of brand recall alone.
+## What Drives Stars
+Repository star growth starts with discoverability through problem keywords instead of brand recall alone.
 
 If someone asks:
 
@@ -67,8 +66,8 @@ The difference usually comes down to:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/11Yuxuanyang/repo-geo-playbook.git
-cd repo-geo-playbook
+git clone https://github.com/11Yuxuanyang/starsup.git
+cd starsup
 ```
 
 ### 2. Start with the templates
@@ -112,7 +111,7 @@ This repo focuses on the discoverability layer that feeds that loop.
 - 被看到了也记不住
 - 内容不错，星标起不来
 
-`GitHub GEO Playbook` 做的事，就是把这层“可发现性工程”拆出来，做成一套公开模板和执行清单。
+`Starsup` 做的事，就是把这层“高 star 仓库背后的可发现性工程”拆出来，做成一套公开模板和执行清单。
 
 ## Repository Structure
 
@@ -141,7 +140,7 @@ templates/
 
 ## Topics This Repository Covers
 
-- GitHub GEO
+- GitHub star growth
 - repository discoverability
 - AI citation readiness
 - GitHub stars
