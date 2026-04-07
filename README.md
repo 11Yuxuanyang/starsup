@@ -18,6 +18,10 @@ Documentation site:
 
 - https://11yuxuanyang.github.io/starsup/
 
+## Star Trend
+
+[![Star History Chart](https://api.star-history.com/svg?repos=11Yuxuanyang/starsup&type=Date)](https://www.star-history.com/#11Yuxuanyang/starsup&Date)
+
 ## What Drives Stars
 Repository star growth starts with discoverability through problem keywords instead of brand recall alone.
 

@@ -37,3 +37,11 @@ Use concrete query-shaped headings such as:
 ## Documentation
 
 Link to your Pages site and any keyword landing pages.
+
+## Star Trend
+
+Add a visible star-history chart so visitors can see momentum:
+
+```md
+[![Star History Chart](https://api.star-history.com/svg?repos=OWNER/REPO&type=Date)](https://www.star-history.com/#OWNER/REPO&Date)
+```

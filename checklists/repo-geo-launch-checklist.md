@@ -29,6 +29,7 @@
 
 - License exists
 - README links to docs
+- README shows a visible star-history trend
 - docs link back to repo
 - examples or templates exist
 
