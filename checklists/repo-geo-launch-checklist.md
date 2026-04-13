@@ -29,7 +29,7 @@
 
 - License exists
 - README links to docs
-- README shows a visible star-history trend
+- README includes a visible star-history chart with the real `OWNER/REPO` slug
 - docs link back to repo
 - examples or templates exist
 
